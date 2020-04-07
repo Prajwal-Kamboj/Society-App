@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Admin",
+        "familyMembers" : "1",
+        "role": "owner",
+        "flatNumber": "1",
+        "address": " Sector 1, Pocket 2, DDA Flats, Apna Niwas",
+        "city" : "Dwarka",
+        "state" : "New Delhi",
+        "pin_code" : "110075",
+        "phone": "(111) 111-1111",
+        "email": "admin@gmail.com",
+        "password":"123456"
+    }
+]
